@@ -1,0 +1,106 @@
+{
+   "Apparel": [
+      {
+         "id": 1,
+         "name": "Nike Sssssshoes",
+         "price": 1500,
+         "imgName": "images/jonathan-borba-zfPOelmDc-M-unsplash.jpg"
+      },
+      {
+         "id": 2,
+         "name": "Womens vest",
+         "price": 1000,
+         "imgName": "images/wander-fleur-fSN3Q_imqrA-unsplash.jpg"
+      },
+      {
+         "id": 3,
+         "name": "Straps",
+         "price": 2000,
+         "imgName": "images/bruce-mars-WGN6ZEFEZbs-unsplash.jpg"
+      },
+      {
+         "id": 4,
+         "name": "Gym Leggings",
+         "price": 4000,
+         "imgName": "images/benjamin-klaver-zAtTuN6Ykok-unsplash.jpg"
+      }
+   ],
+   "Snacks": [
+      {
+         "id": 5,
+         "name": "Think bars",
+         "price": 1200,
+         "imgName": "images/spenser-sembrat-RNrnTwC4Htg-unsplash.jpg"
+      },
+      {
+         "id": 6,
+         "name": "Crave Bars",
+         "price": 1200,
+         "imgName": "images/benjamin-klaver-zAtTuN6Ykok-unsplash.jpg"
+      },
+      {
+         "id": 7,
+         "name": "XL",
+         "price": 1400,
+         "imgName": "images/hybrid-storytellers-tLnNc1HVckE-unsplash.jpg"
+      },
+      {
+         "id": 8,
+         "name": "Hemp Oil",
+         "price": 2200,
+         "imgName": "images/hempcrew-GnxiLNEkwuA-unsplash.jpg"
+      }
+   ],
+   "Accessories": [
+      {
+         "id": 9,
+         "name": "Resistance bands",
+         "price": 1800,
+         "imgName": "images/kelly-sikkema-IZOAOjvwhaM-unsplash.jpg"
+      },
+      {
+         "id": 10,
+         "name": "kettleBells",
+         "price": 4000,
+         "imgName": "images/heidi-erickson-CPSjcuuV8E8-unsplash.jpg"
+      },
+      {
+         "id": 11,
+         "name": "Weight Plates ",
+         "price": 4000,
+         "imgName": "images/victor-freitas-JbI04nYfaJk-unsplash.jpg"
+      },
+      {
+         "id": 12,
+         "name": "Dumbells",
+         "price": 2800,
+         "imgName": "images/vd-photography-H-qxKCedhcc-unsplash.jpg"
+      }
+   ],
+   "Shakes": [
+      {
+         "id": 13,
+         "name": "Huel",
+         "price": 1800,
+         "imgName": "images/joseph-greve-Tivp5fYe4Ng-unsplash.jpg"
+      },
+      {
+         "id": 14,
+         "name": "Nature Zen",
+         "price": 2200,
+         "imgName": "images/nature-zen-awBT427pSKE-unsplash.jpg"
+      },
+      {
+         "id": 15,
+         "name": "94",
+         "price": 3000,
+         "imgName": "images/edgar-chaparro-NBA8YVru_9E-unsplash.jpg"
+      },
+      {
+         "id": 16,
+         "name": "CRL",
+         "price": 4000,
+         "imgName": "images/ctrl-a-meal-replacement-8ra2SQwYm14-unsplash.jpg"
+      }
+   ]
+}
